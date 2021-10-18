@@ -1,2 +1,2 @@
 # WindowsLaptopSetup
-Optimal Sett Up of a Windows Laptop
+Go to our https://github.com/jhmlam/WindowsLaptopSetup/wiki! 
