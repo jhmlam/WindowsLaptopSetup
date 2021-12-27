@@ -1,7 +1,7 @@
 # WindowsLaptopSetup
 ## Motivation
 Go to our Wiki https://github.com/jhmlam/WindowsLaptopSetup/wiki! This wiki documents how I optimise my Windows laptop for Machine Learning tasks without breaking it apart!
-Hello World
+
 ## Introduction
 In Fall 2021, I bought my [Lenovo Legion Laptop](https://amzn.to/394bXOY), it comes with the following hardware/software features:
 > * Windows 10 Pro
