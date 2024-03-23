@@ -1,5 +1,5 @@
 # What is a bat?
-A BAT file in Windows is a batch file, which is a text file containing a series of commands intended to be executed by the command interpreter, typically CMD.EXE (Command Prompt) in Windows environments. These files have the extension .bat and can be used to automate tasks through the execution of multiple commands in a sequence without user interaction.
+A BAT file in Windows is a batch file, which is a text file containing a series of commands intended to be executed by the command interpreter, typically CMD.EXE (Command Prompt) in Windows environments. These files have the extension .bat and can be used to automate tasks through the execution of multiple commands in a sequence without user interaction. THEY ARE CLICKABLE COMMANDLINES.
 
 Here's what BAT files allow you to do:
 
